@@ -143,7 +143,13 @@ print(y_prednew)
 
 ![Screenshot (256)](https://github.com/user-attachments/assets/160fa22e-63b2-48a7-af7d-86e684a94cf4)
 
+![Screenshot 2025-04-28 230610](https://github.com/user-attachments/assets/d4073580-c112-4535-ac13-4b6484a756ba)
 
+![Screenshot 2025-04-28 230625](https://github.com/user-attachments/assets/65e017f5-d7c9-4898-a1e7-0c1a5fbf9221)
+
+![Screenshot 2025-04-28 231448](https://github.com/user-attachments/assets/4ba28adf-579d-4345-a7f6-ad4011663c08)
+
+![Screenshot (258)](https://github.com/user-attachments/assets/197123fd-66ca-4aed-ae9f-ff0e2f65bb2b)
 
 
 ## Result:
