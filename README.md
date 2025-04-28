@@ -149,7 +149,8 @@ print(y_prednew)
 
 ![Screenshot 2025-04-28 231448](https://github.com/user-attachments/assets/4ba28adf-579d-4345-a7f6-ad4011663c08)
 
-![Screenshot (258)](https://github.com/user-attachments/assets/197123fd-66ca-4aed-ae9f-ff0e2f65bb2b)
+![Screenshot (258)](https://github.com/user-attachments/assets/bcd653a8-1622-404f-b90a-77b3a5a362bb)
+
 
 
 ## Result:
